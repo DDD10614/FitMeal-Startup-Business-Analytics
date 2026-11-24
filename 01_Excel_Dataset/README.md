@@ -1,62 +1,71 @@
-# FitMeal Startup – Business Analytics & Executive Dashboard
+# FitMeal – Business Analytics Dataset
 
-## Project Overview
+## 1. Dataset Overview
+This folder contains the Excel dataset used for the FitMeal Startup Business Analytics Project.
 
-FitMeal is a healthy meal subscription startup business analytics project. The project focuses on analysing business performance, customer behaviour, financial information, marketing effectiveness, and growth opportunities using Excel and an interactive executive dashboard.
+The workbook provides structured business information for analysing customer behaviour, subscription performance, financial performance, marketing effectiveness, customer feedback, and business growth opportunities.
 
-The objective is to transform structured business data into meaningful insights that support strategic and data-driven decision-making.
+**Dataset File:** `FitMeal_Startup_C_Dataset.xlsx`
 
-## Project Deliverables
+**File Format:** Microsoft Excel (.xlsx)
 
-### 1. Excel Dataset & Business Analysis
+## 2. Workbook Structure
 
-**File:** `FitMeal_Startup_C_Dataset.xlsx`
+The Excel workbook contains 13 worksheets:
 
-The Excel workbook contains 13 worksheets covering:
+| Worksheet | Description |
+|---|---|
+| README | Dataset introduction and guidance |
+| Assumptions | Business assumptions and supporting inputs |
+| Plan_12M | 12-month business plan |
+| Customers | Customer information and analysis |
+| Billing | Billing and financial transaction data |
+| Feedback | Customer feedback and satisfaction |
+| Channel_Performance | Marketing channel performance |
+| Pilot_vs_Plan | Pilot performance compared with planned targets |
+| Pilot_Summary | Summary of pilot business performance |
+| Menu | Meal menu and related information |
+| Competitors | Competitor analysis |
+| Market_Sizing | Market opportunity and sizing analysis |
+| Event_Cards | Business events and supporting information |
 
-- Business assumptions and 12-month planning
-- Customer information and billing
+## 3. Key Analysis Areas
+
+- Customer acquisition and customer behaviour
+- Subscription and billing performance
+- Revenue and financial analysis
 - Customer feedback and satisfaction
-- Marketing channel performance
-- Pilot performance versus business plan
-- Menu and competitor analysis
-- Market sizing and business events
+- Marketing channel effectiveness
+- Pilot performance and business targets
+- Menu and product analysis
+- Competitor benchmarking
+- Market opportunity assessment
+- 12-month business planning
 
-### 2. Interactive Executive Dashboard
+## 4. Project Objectives
 
-**Live Dashboard:** [Open FitMeal Executive Master Dashboard](https://sites.google.com/view/fitmealexecutivemasterdashboar/full-page-embed)
+- Organise business data into structured worksheets.
+- Analyse customer and financial performance.
+- Identify business trends and growth opportunities.
+- Evaluate marketing and operational performance.
+- Support management decisions using data-driven insights.
 
-The dashboard presents business insights through visual reports and performance indicators, including:
+## 5. Tools & Technologies
 
-- Business performance and KPIs
-- Financial analysis
-- Customer and subscription analytics
-- Marketing channel performance
-- Customer feedback analysis
-- Pilot versus plan performance
-- Market and competitor analysis
+- Microsoft Excel – Dataset management and data analysis.
+- Business Analytics – Performance evaluation and interpretation.
+- Dashboard Reporting – Visual presentation of business insights.
 
-## Tools & Technologies
+## 6. How to Use the Dataset
 
-- Microsoft Excel – Data management and analysis
-- Business Analytics – Business performance evaluation
-- Google Sites – Interactive dashboard publishing
-- Data Visualization – Visual reporting and insights
+1. Download the Excel workbook.
+2. Open it using Microsoft Excel.
+3. Review the README and Assumptions worksheets.
+4. Explore the individual business data worksheets.
+5. Use the information for business analysis and dashboard reporting.
 
-## Project Objectives
+## 7. Data Disclaimer
 
-- Analyse business and financial performance.
-- Understand customer behaviour and subscription trends.
-- Evaluate marketing channel effectiveness.
-- Identify growth opportunities.
-- Support management decisions through data visualization.
+The workbook contains synthetic and illustrative classroom data prepared for educational and portfolio purposes. It does not represent actual FitMeal company operations.
 
-## Repository Structure
-
-- `01_Excel_Dataset/` – Excel workbook and dataset documentation.
-- `02_Dashboard/` – Interactive dashboard link and documentation.
-
-## Data Disclaimer
-
-The workbook contains synthetic and illustrative data prepared for educational and portfolio purposes. It does not represent actual FitMeal company operations. Market sizing and competitor information should be independently verified before real-world use.
-
+Market sizing and competitor information should be independently verified before being used for real-world business decisions.
